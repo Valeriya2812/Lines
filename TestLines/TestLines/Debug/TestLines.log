@@ -1,0 +1,12 @@
+﻿  stdafx.cpp
+  TestLines.cpp
+d:\valeriya\repository default\lines\testlines\testlines\searchofway.h(28): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+  SearchOfWay.cpp
+d:\valeriya\repository default\lines\testlines\testlines\searchofway.h(28): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+d:\valeriya\repository default\lines\testlines\testlines\searchofway.cpp(12): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+d:\valeriya\repository default\lines\testlines\testlines\searchofway.cpp(232): warning C4101: i: неиспользованная локальная переменная
+d:\valeriya\repository default\lines\testlines\testlines\searchofway.cpp(315): warning C4018: <: несоответствие типов со знаком и без знака
+d:\valeriya\repository default\lines\testlines\testlines\searchofway.cpp(324): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  TestLines.vcxproj -> D:\valeriya\repository default\Lines\TestLines\Debug\TestLines.exe
+  TestLines.vcxproj -> D:\valeriya\repository default\Lines\TestLines\Debug\TestLines.pdb (Full PDB)
